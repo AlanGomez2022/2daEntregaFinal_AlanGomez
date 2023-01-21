@@ -1,0 +1,10 @@
+.itemListContainer{
+    padding:50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 10px;
+}
+.loading{
+    text-align: center;
+    width: 100%;
+}

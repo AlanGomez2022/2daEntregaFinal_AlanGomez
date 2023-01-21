@@ -1,0 +1,10 @@
+.detail{
+    display: flex;
+    flex-direction: row;
+    padding:40px ;
+}
+.foto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
